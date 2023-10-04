@@ -1,0 +1,32 @@
+-------------------------------------------------------------------------------
+Test set: BookTicketTest
+-------------------------------------------------------------------------------
+Tests run: 14, Failures: 7, Errors: 0, Skipped: 0, Time elapsed: 0.611 s <<< FAILURE! - in BookTicketTest
+addStripsSucessful  Time elapsed: 0.076 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <3> but was: <5>
+	at BookTicketTest.addStripsSucessful(BookTicketTest.java:73)
+
+getListCoachStripCanOrderSucessful  Time elapsed: 0.029 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <6> but was: <7>
+	at BookTicketTest.getListCoachStripCanOrderSucessful(BookTicketTest.java:88)
+
+getIdCSCSSucessful  Time elapsed: 0.013 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <100> but was: <0>
+	at BookTicketTest.getIdCSCSSucessful(BookTicketTest.java:145)
+
+getListIDCoachSucessful  Time elapsed: 0.012 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <2> but was: <0>
+	at BookTicketTest.getListIDCoachSucessful(BookTicketTest.java:102)
+
+getListCoachSucessful  Time elapsed: 0.035 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <2> but was: <0>
+	at BookTicketTest.getListCoachSucessful(BookTicketTest.java:117)
+
+getAllChuyenXeSuccessfull  Time elapsed: 0.012 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <3> but was: <5>
+	at BookTicketTest.getAllChuyenXeSuccessfull(BookTicketTest.java:51)
+
+getListNameSeatSucessful  Time elapsed: 0.009 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <4> but was: <0>
+	at BookTicketTest.getListNameSeatSucessful(BookTicketTest.java:131)
+
