@@ -4,7 +4,7 @@ it's just a simple project I hope it'll useful for you
 
 get start :
 
-1: git clone https://github.com/VyKhoi/BookingCoach.git
+1: git clone https://github.com/vhuunghia196/Coach-Booking
 
 2: Open it with NetBeans IDE then build all project
 
